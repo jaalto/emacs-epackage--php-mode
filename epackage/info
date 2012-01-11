@@ -13,7 +13,7 @@ Vcs-Type: svn
 Vcs-Url: https://php-mode.svn.sourceforge.net/svnroot/php-mode/trunk/php-mode-src
 Vcs-Browser: http://php-mode.svn.sourceforge.net/viewvc/php-mode
 Homepage:
-Wiki: http://www.emacswiki.org/emacs/
+Wiki: http://www.emacswiki.org/emacs/PhpMode
 Commentary: php-mode.el
 Description: major mode for editing PHP files
  PHP mode is a major mode for editing PHP 3 and 4 source code. It's
